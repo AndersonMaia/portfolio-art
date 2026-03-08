@@ -1,0 +1,4712 @@
+[
+  {
+    "id": "banshee",
+    "link": "data/images/2012-2015/agatha-the-elven-banshee.jpg",
+    "title": "Agatha, The Elven Banshee",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2013,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "mary",
+    "link": "data/images/2012-2015/marys-lamb.jpg",
+    "title": "Mary's Lamb",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2013,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "lemmy",
+    "link": "data/images/2012-2015/lemmy-caricatura.jpg",
+    "title": "Lemmy's Caricature",
+    "type": "character",
+    "genre": "other",
+    "year": 2013,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "tate",
+    "link": "data/images/2012-2015/tate-the-elven-ranger.jpg",
+    "title": "Tate, The Elven Ranger",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2014,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "vampirella",
+    "link": "data/images/2016/cartoony-vampirela.jpg",
+    "title": "Cartoony Vampirella",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2016,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "eddie",
+    "link": "data/images/2016/eddie_brasil.jpg",
+    "title": "Eddie Brasil",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2016,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "girl-skull",
+    "link": "data/images/2016/girl_and_skull.jpg",
+    "title": "Girl and Skull",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2016,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "lampad",
+    "link": "data/images/2016/lampad.jpg",
+    "title": "Lampad",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2016,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "minotaur",
+    "link": "data/images/2016/minotaur-labyrinth.jpg",
+    "title": "Minotaur's Labyrinth",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2015,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "mummy",
+    "link": "data/images/2016/mummy.jpg",
+    "title": "Mummy",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2016,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "elvira-sketch",
+    "link": "data/images/2016/elvira_sketch.jpg",
+    "title": "Cartoon Elvira Sketch",
+    "type": "character",
+    "genre": "other",
+    "year": 2016,
+    "media": "pencil",
+    "client": "self"
+  },
+  {
+    "id": "elvira",
+    "link": "data/images/2016/elvira_painting.jpg",
+    "title": "Cartoon Elvira, Mistress of Darkness",
+    "type": "character",
+    "genre": "other",
+    "year": 2016,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "bird-rider",
+    "link": "data/images/2012-2015/tiny-bird-rider.jpg",
+    "title": "Tiny Bird Rider",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2015,
+    "media": "mixed",
+    "client": "self"
+  },
+  {
+    "id": "max",
+    "link": "data/images/2016/max-cavalera-sketch.jpg",
+    "title": "Max Cavalera Sketch",
+    "type": "character",
+    "genre": "other",
+    "year": 2015,
+    "media": "pencil",
+    "client": "self"
+  },
+  {
+    "id": "lava-wight-sketch",
+    "link": "data/images/2016/lava_wight_sketch.jpg",
+    "title": "Lava Wight Sketch",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2016,
+    "media": "pencil",
+    "client": "brazer"
+  },
+  {
+    "id": "lava-wight",
+    "link": "data/images/2016/lava_wight.jpg",
+    "title": "Lava Wight",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2016,
+    "media": "mixed",
+    "client": "brazer"
+  },
+  {
+    "id": "clockwork_ant",
+    "link": "data/images/2016/clockwork_ant.jpg",
+    "title": "Clockwork Ant",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "digital",
+    "client": "brazer"
+  },
+  {
+    "id": "adventuring_gear_page09",
+    "link": "data/images/2016/mongoose_adventuring_gear_page09.jpg",
+    "title": "Adventuring Gear Page 09",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page10",
+    "link": "data/images/2016/mongoose_adventuring_gear_page10.jpg",
+    "title": "Adventuring Gear Page 10",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page11",
+    "link": "data/images/2016/mongoose_adventuring_gear_page11.jpg",
+    "title": "Adventuring Gear Page 11",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page12",
+    "link": "data/images/2016/mongoose_adventuring_gear_page12.jpg",
+    "title": "Adventuring Gear Page 12",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page13",
+    "link": "data/images/2016/mongoose_adventuring_gear_page13.jpg",
+    "title": "Adventuring Gear Page 13",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page14",
+    "link": "data/images/2016/mongoose_adventuring_gear_page14.jpg",
+    "title": "Adventuring Gear Page 14",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page15",
+    "link": "data/images/2016/mongoose_adventuring_gear_page15.jpg",
+    "title": "Adventuring Gear Page 15",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page16",
+    "link": "data/images/2016/mongoose_adventuring_gear_page16.jpg",
+    "title": "Adventuring Gear Page 16",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page17",
+    "link": "data/images/2016/mongoose_adventuring_gear_page17.jpg",
+    "title": "Adventuring Gear Page 17",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page27",
+    "link": "data/images/2016/mongoose_adventuring_gear_page27.jpg",
+    "title": "Adventuring Gear Page 27",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "adventuring_gear_page28",
+    "link": "data/images/2016/mongoose_adventuring_gear_page28.jpg",
+    "title": "Adventuring Gear Page 28",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2016,
+    "media": "mixed",
+    "client": "mongoose"
+  },
+  {
+    "id": "circus_of_maniacs",
+    "link": "data/images/2016/circus_of_maniacs.jpg",
+    "title": "Circus of Maniacs - Band Logo + EP's Cover",
+    "type": "other",
+    "genre": "other",
+    "year": 2016,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "alien_sketch",
+    "link": "data/images/2017/alien_sketch.jpg",
+    "title": "Alien Sketch",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "pencil",
+    "client": "self"
+  },
+  {
+    "id": "burnt_dude",
+    "link": "data/images/2017/burnt_dude.jpg",
+    "title": "Burnt Dude Sketch",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "lioness_deity",
+    "link": "data/images/2017/lioness_deity.jpg",
+    "title": "Lioness Deity",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "mother_of_ghouls",
+    "link": "data/images/2017/mother_of_ghouls.jpg",
+    "title": "Mother of Ghouls",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "sketch01",
+    "link": "data/images/2017/sketch01.jpg",
+    "title": "Random Sketch",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "sketch02",
+    "link": "data/images/2017/sketch02.jpg",
+    "title": "Random Sketch",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "zombie_sketch_001",
+    "link": "data/images/2017/zombie_sketch_001.jpg",
+    "title": "Random Zombie Sketch",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "zombie_sketch_002",
+    "link": "data/images/2017/zombie_sketch_002.jpg",
+    "title": "Random Zombie Sketch",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "zombie_sketch_003",
+    "link": "data/images/2017/zombie_sketch_003.jpg",
+    "title": "Random Zombie Sketch",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "cleric",
+    "link": "data/images/2017/cleric.jpg",
+    "title": "Cleric",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "storm-bunny"
+  },
+  {
+    "id": "dwarf",
+    "link": "data/images/2017/dwarf.jpg",
+    "title": "Dwarf",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "storm-bunny"
+  },
+  {
+    "id": "elven_woman",
+    "link": "data/images/2017/elven_woman.jpg",
+    "title": "Elven Woman",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "storm-bunny"
+  },
+  {
+    "id": "mage",
+    "link": "data/images/2017/mage.jpg",
+    "title": "Mage",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "storm-bunny"
+  },
+  {
+    "id": "rogue",
+    "link": "data/images/2017/rogue.jpg",
+    "title": "Rogue",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "storm-bunny"
+  },
+  {
+    "id": "warrior",
+    "link": "data/images/2017/warrior.jpg",
+    "title": "Warrior",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "storm-bunny"
+  },
+  {
+    "id": "introduction",
+    "link": "data/images/2017/introduction.jpg",
+    "title": "After The Vampire Wars, Introduction Scene",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2017,
+    "media": "digital",
+    "client": "design-mechanism"
+  },
+  {
+    "id": "garden_animals",
+    "link": "data/images/2017/garden_animals.jpg",
+    "title": "Garden Animals",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "erek_radaelli",
+    "link": "data/images/2017/erek_radaelli.jpg",
+    "title": "Erek Radaelli",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "marianne",
+    "link": "data/images/2017/marianne.jpg",
+    "title": "Marianne",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ratfish",
+    "link": "data/images/2017/ratfish.jpg",
+    "title": "Ratfish",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ueinsadz",
+    "link": "data/images/2017/ueinsadz.jpg",
+    "title": "Ueinsadz",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "scavenger_clouds",
+    "link": "data/images/2017/scavenger_clouds.jpg",
+    "title": "Scavenger Clouds",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "tools",
+    "link": "data/images/2017/tools.jpg",
+    "title": "Tools",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "tinath_aliens",
+    "link": "data/images/2017/tinath_aliens.jpg",
+    "title": "Tinath Aliens and Weapons",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "kasiyl_with_human_shaped_bundle",
+    "link": "data/images/2017/kasiyl_with_human_shaped_bundle.jpg",
+    "title": "Kasiyl with a Human Shaped Bundle",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "negotiating_table_humans_and_aslans",
+    "link": "data/images/2017/negotiating_table_humans_and_aslans.jpg",
+    "title": "Negotiation Table with Humans and Aslans",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "old_aslan",
+    "link": "data/images/2017/old_aslan.jpg",
+    "title": "Dying, Elderly Aslan",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "kasiyl",
+    "link": "data/images/2017/kasiyl.jpg",
+    "title": "Kasiyl",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "lykhi",
+    "link": "data/images/2017/lykhi.jpg",
+    "title": "Lykhi",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "lokharl",
+    "link": "data/images/2017/lokharl.jpg",
+    "title": "Lokharl",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "hiver_jim",
+    "link": "data/images/2017/hiver_jim.jpg",
+    "title": "Hiver Jim",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "security_chief_brule",
+    "link": "data/images/2017/security_chief_brule.jpg",
+    "title": "Security Chief Brule",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "cursed_one",
+    "link": "data/images/2017/cursed_one.jpg",
+    "title": "Cursed One",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "miria_silverhand",
+    "link": "data/images/2017/miria_silverhand.jpg",
+    "title": "Miria Silverhand",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "redthane",
+    "link": "data/images/2017/redthane.jpg",
+    "title": "Redthane",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "redthane_crewman",
+    "link": "data/images/2017/redthane_crewman.jpg",
+    "title": "Redthane's Crewman",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "dai",
+    "link": "data/images/2017/dai.jpg",
+    "title": "Dai",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "warden_rannib",
+    "link": "data/images/2017/warden_rannib.jpg",
+    "title": "Warden Rannib",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "hokmah",
+    "link": "data/images/2017/hokmah.jpg",
+    "title": "Hokmah",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "thugs",
+    "link": "data/images/2017/thugs.jpg",
+    "title": "Thugs",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "flame_knight",
+    "link": "data/images/2017/flame_knight.jpg",
+    "title": "Flame Knight",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "vespexer_human_survivor",
+    "link": "data/images/2017/vespexer_human_survivor.jpg",
+    "title": "Vespexer Human Survivor",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "droyne_warrior",
+    "link": "data/images/2017/droyne_warrior.jpg",
+    "title": "Droyne Warrior",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "orphee",
+    "link": "data/images/2017/orphee.jpg",
+    "title": "Orphee",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "mountain_pouncer",
+    "link": "data/images/2017/mountain_pouncer.jpg",
+    "title": "Mountain Pouncer",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "captain_miklos",
+    "link": "data/images/2017/captain_miklos.jpg",
+    "title": "Captain Miklos",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sayelle",
+    "link": "data/images/2017/sayelle.jpg",
+    "title": "Sayelle",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "andrea",
+    "link": "data/images/2017/andrea.jpg",
+    "title": "Andrea",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "dakh",
+    "link": "data/images/2017/dakh.jpg",
+    "title": "Chief Engineer Dakh",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2017,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "forest_undead",
+    "link": "data/images/2018/forest_undead.jpg",
+    "title": "Forest Undead",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "keeper_of_the_eye_of_seth",
+    "link": "data/images/2018/keeper_of_the_eye_of_seth.jpg",
+    "title": "Keeper of the Eye of Seth",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "conan_in_the_sludge_ruins",
+    "link": "data/images/2018/conan_in_the_sludge_ruins.jpg",
+    "title": "Conan in the Sludge Ruins",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "stygian_priest",
+    "link": "data/images/2018/stygian_priest.jpg",
+    "title": "Stygian Priest",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "khitani_sorcerer",
+    "link": "data/images/2018/khitani_sorcerer.jpg",
+    "title": "Khitani Sorcerer",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "satyress",
+    "link": "data/images/2018/satyress.jpg",
+    "title": "Satyress",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "trooper",
+    "link": "data/images/2018/trooper.jpg",
+    "title": "Trooper",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "wizard",
+    "link": "data/images/2018/wizard.jpg",
+    "title": "Wizard",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "nameless_one",
+    "link": "data/images/2018/nameless_one.jpg",
+    "title": "Nameless One (Planescape Torment) Fanart",
+    "type": "character",
+    "genre": "other",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "pirate_treasure",
+    "link": "data/images/2018/pirate_treasure.jpg",
+    "title": "Pirate Treasure",
+    "type": "other",
+    "genre": "other",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "horror_game_props",
+    "link": "data/images/2018/horror_game_props.jpg",
+    "title": "Horror Game Props",
+    "type": "other",
+    "genre": "other",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "random_girls",
+    "link": "data/images/2018/random_girls.jpg",
+    "title": "Random Eerie Girls Sketches",
+    "type": "character",
+    "genre": "other",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "zombie_game_characters",
+    "link": "data/images/2018/zombie_game_characters.jpg",
+    "title": "Zombie Game Characters",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "zombie_game_props",
+    "link": "data/images/2018/zombie_game_props.jpg",
+    "title": "Zombie Game Props",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "pencil_characters",
+    "link": "data/images/2018/pencil_characters.jpg",
+    "title": "Pencil & Paper Characters",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "pencil",
+    "client": "scrub"
+  },
+  {
+    "id": "mammoth_rat",
+    "link": "data/images/2018/mammoth_rat.jpg",
+    "title": "Mammoth Rat",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "bloodbat",
+    "link": "data/images/2018/bloodbat.jpg",
+    "title": "Bloodbat",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "xvart_rat-rider",
+    "link": "data/images/2018/xvart_rat-rider.jpg",
+    "title": "Xvart Rat-Rider",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "necromantic_staff",
+    "link": "data/images/2018/necromantic_staff.jpg",
+    "title": "Necromantic Staff",
+    "type": "other",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "carnufex",
+    "link": "data/images/2018/carnufex.jpg",
+    "title": "Carnufex",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "kraken",
+    "link": "data/images/2018/kraken.jpg",
+    "title": "Kraken",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "lighthouse",
+    "link": "data/images/2018/lighthouse.jpg",
+    "title": "Lighthouse",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "klan",
+    "link": "data/images/2018/klan.jpg",
+    "title": "Klan",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "steampunk_characters",
+    "link": "data/images/2018/steampunk_characters.jpg",
+    "title": "Steampunk Characters",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "scrub"
+  },
+  {
+    "id": "dino_rider",
+    "link": "data/images/2018/dino_rider.jpg",
+    "title": "Dino Rider",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "wingspan"
+  },
+  {
+    "id": "macrabeesus",
+    "link": "data/images/2018/macrabeesus.jpg",
+    "title": "Macrabeesus",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "ilicit_boons",
+    "link": "data/images/2018/ilicit_boons.jpg",
+    "title": "Ilicit Boons",
+    "type": "other",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "kelpies_hole_tavern",
+    "link": "data/images/2018/kelpies_hole_tavern.jpg",
+    "title": "Kelpies Hole Tavern",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "kelpies_hole_patrons",
+    "link": "data/images/2018/kelpies_hole_patrons.jpg",
+    "title": "Kelpies Hole Patrons",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2018,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "reading_on_bunk",
+    "link": "data/images/2018/reading_on_bunk.jpg",
+    "title": "Reading on Bunk",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "captor_mines_in_orbit",
+    "link": "data/images/2018/captor_mines_in_orbit.jpg",
+    "title": "Captor Mines in Orbit",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "the_element_cruisers_scene01",
+    "link": "data/images/2018/the_element_cruisers_scene01.jpg",
+    "title": "The Element Cruisers - Scene 01",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "the_element_cruisers_scene02",
+    "link": "data/images/2018/the_element_cruisers_scene02.jpg",
+    "title": "The Element Cruisers - Scene 02",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "naval_campaign_scene03",
+    "link": "data/images/2018/naval_campaign_scene03.jpg",
+    "title": "Naval Campaign - Scene 03",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "bar_brawl",
+    "link": "data/images/2018/bar_brawl.jpg",
+    "title": "Bar Brawl",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2018,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "random_sketches01",
+    "link": "data/images/2019/random_sketches01.jpg",
+    "title": "Random Sketches 01",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "random_sketches02",
+    "link": "data/images/2019/random_sketches02.jpg",
+    "title": "Random Sketches 02",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "random_sketch03",
+    "link": "data/images/2019/random_sketch03.jpg",
+    "title": "Random Sketch 03",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "random_sketch04",
+    "link": "data/images/2019/random_sketch04.jpg",
+    "title": "Random Sketch 04",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "random_sketch05",
+    "link": "data/images/2019/random_sketch05.jpg",
+    "title": "Random Sketch 05",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "zombies",
+    "link": "data/images/2019/zombies.jpg",
+    "title": "Zombies",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "texts",
+    "link": "data/images/2019/texts.jpg",
+    "title": "Texts",
+    "type": "other",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "alase_and_tonbarse_paizo_fanart",
+    "link": "data/images/2019/alase_and_tonbarse_paizo_fanart.jpg",
+    "title": "Alase and Tonbarse, Paizo Fanart",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "iseph_paizo_fanart",
+    "link": "data/images/2019/iseph_paizo_fanart.jpg",
+    "title": "Iseph, Paizo Fanart",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "zetha_paizo_fanart",
+    "link": "data/images/2019/zetha_paizo_fanart.jpg",
+    "title": "Zetha, Paizo Fanart",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "marys_lamb",
+    "link": "data/images/2019/marys_lamb.jpg",
+    "title": "Mary's Lamb",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "reptilian_ronin",
+    "link": "data/images/2019/reptilian_ronin.jpg",
+    "title": "Reptilian Ronin",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "laboratory",
+    "link": "data/images/2019/laboratory.jpg",
+    "title": "Laboratory",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "wizard",
+    "link": "data/images/2019/wizard.jpg",
+    "title": "Wizard",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "elven_ranger",
+    "link": "data/images/2019/elven_ranger.jpg",
+    "title": "Elven Ranger",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "orc",
+    "link": "data/images/2019/orc.jpg",
+    "title": "Orc",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "cyberpunk_hacker",
+    "link": "data/images/2019/cyberpunk_hacker.jpg",
+    "title": "Cyberpunk Hacker",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "mage_girl",
+    "link": "data/images/2019/mage_girl.jpg",
+    "title": "Mage Girl",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "musketeer",
+    "link": "data/images/2019/musketeer.jpg",
+    "title": "Musketeer",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "pirate_lady",
+    "link": "data/images/2019/pirate_lady.jpg",
+    "title": "Pirate Lady",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "askatla_the_pyregeist",
+    "link": "data/images/2019/askatla_the_pyregeist.jpg",
+    "title": "Askatla the Pyregeist",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "feld_brokenhand",
+    "link": "data/images/2019/feld_brokenhand.jpg",
+    "title": "Feld Brokenhand",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "ozurr_the_witchborn",
+    "link": "data/images/2019/ozurr_the_witchborn.jpg",
+    "title": "Ozurr the Witchborn",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "goats_stomach_ring",
+    "link": "data/images/2019/goats_stomach_ring.jpg",
+    "title": "Goat's Stomach Ring",
+    "type": "other",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "noggles_beetle",
+    "link": "data/images/2019/noggles_beetle.jpg",
+    "title": "Noggles Beetle",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "rattlewood",
+    "link": "data/images/2019/rattlewood.jpg",
+    "title": "Rattlewood",
+    "type": "other",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "torem_prin",
+    "link": "data/images/2019/torem_prin.jpg",
+    "title": "Torem Prin",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "valeuness_ellahntren",
+    "link": "data/images/2019/valeuness_ellahntren.jpg",
+    "title": "Valeuness Ellahntren",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "spirit_stone_and_necratite",
+    "link": "data/images/2019/spirit_stone_and_necratite.jpg",
+    "title": "Spirit Stone and Necratite",
+    "type": "other",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "marabu",
+    "link": "data/images/2019/marabu.jpg",
+    "title": "Marabu",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "bard",
+    "link": "data/images/2019/bard.jpg",
+    "title": "Bard",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "black_eyed_child",
+    "link": "data/images/2019/black_eyed_child.jpg",
+    "title": "Black Eyed Child",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "rat_king",
+    "link": "data/images/2019/rat_king.jpg",
+    "title": "Rat King",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "barbarian",
+    "link": "data/images/2019/barbarian.jpg",
+    "title": "Barbarian",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "lady_moontide",
+    "link": "data/images/2019/lady_moontide.jpg",
+    "title": "Lady Moontide",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "sophiornelle",
+    "link": "data/images/2019/sophiornelle.jpg",
+    "title": "Sophiornelle",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "cleric",
+    "link": "data/images/2019/cleric.jpg",
+    "title": "Cleric",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "druid",
+    "link": "data/images/2019/druid.jpg",
+    "title": "Druid",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "ranger",
+    "link": "data/images/2019/ranger.jpg",
+    "title": "Ranger",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "shandow_diviner",
+    "link": "data/images/2019/shandow_diviner.jpg",
+    "title": "Shandow Diviner",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "shandow_monk",
+    "link": "data/images/2019/shandow_monk.jpg",
+    "title": "Shandow Monk",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "warlock",
+    "link": "data/images/2019/warlock.jpg",
+    "title": "Warlock",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "dungeoneer",
+    "link": "data/images/2019/dungeoneer.jpg",
+    "title": "Dungeoneer",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "the_cantrip_cantina",
+    "link": "data/images/2019/the_cantrip_cantina.jpg",
+    "title": "The Cantrip Cantina",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "wagon_trip",
+    "link": "data/images/2019/wagon_trip.jpg",
+    "title": "Wagon Trip",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "satyr_female",
+    "link": "data/images/2019/satyr_female.jpg",
+    "title": "Satyr Female",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "satyr_male",
+    "link": "data/images/2019/satyr_male.jpg",
+    "title": "Satyr Male",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "bush_runner",
+    "link": "data/images/2019/bush_runner.jpg",
+    "title": "Bush Runner",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "lozin",
+    "link": "data/images/2019/lozin.jpg",
+    "title": "Lozin",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "luugir",
+    "link": "data/images/2019/luugir.jpg",
+    "title": "Luugir",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "pinup",
+    "link": "data/images/2019/pinup.jpg",
+    "title": "Pinup",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "dynchia",
+    "link": "data/images/2019/dynchia.jpg",
+    "title": "Dynchia",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sea_of_thieves_characters_01",
+    "link": "data/images/2019/sea_of_thieves_characters_01.jpg",
+    "title": "Sea of Thieves Characters 01",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sea_of_thieves_characters_02",
+    "link": "data/images/2019/sea_of_thieves_characters_02.jpg",
+    "title": "Sea of Thieves Characters 02",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sea_of_thieves_characters_03",
+    "link": "data/images/2019/sea_of_thieves_characters_03.jpg",
+    "title": "Sea of Thieves Characters 03",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sea_of_thieves_characters_04",
+    "link": "data/images/2019/sea_of_thieves_characters_04.jpg",
+    "title": "Sea of Thieves Characters 04",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "fast_jhonny_mcrae",
+    "link": "data/images/2019/fast_jhonny_mcrae.jpg",
+    "title": "Fast Jhonny Mcrae",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "glorinna_firella",
+    "link": "data/images/2019/glorinna_firella.jpg",
+    "title": "Glorinna Firella",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "githiaskio",
+    "link": "data/images/2019/githiaskio.jpg",
+    "title": "Githiaskio",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ivory_gazelle",
+    "link": "data/images/2019/ivory_gazelle.jpg",
+    "title": "Ivory Gazelle",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "oracle_plant",
+    "link": "data/images/2019/oracle_plant.jpg",
+    "title": "Oracle Plant",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "delajabar",
+    "link": "data/images/2019/delajabar.jpg",
+    "title": "Delajabar",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "horse",
+    "link": "data/images/2019/horse.jpg",
+    "title": "Horse",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "psibee",
+    "link": "data/images/2019/psibee.jpg",
+    "title": "Psibee",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ramumi_rats",
+    "link": "data/images/2019/ramumi_rats.jpg",
+    "title": "Ramumi Rats",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "irklan",
+    "link": "data/images/2019/irklan.jpg",
+    "title": "Irklan",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "dev_landrel",
+    "link": "data/images/2019/dev_landrel.jpg",
+    "title": "Dev Landrel",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "amelia_zurich",
+    "link": "data/images/2019/amelia_zurich.jpg",
+    "title": "Amelia Zurich",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "tass_engren",
+    "link": "data/images/2019/tass_engren.jpg",
+    "title": "Tass Engren",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "cluster",
+    "link": "data/images/2019/cluster.jpg",
+    "title": "Cluster",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "shambler",
+    "link": "data/images/2019/shambler.jpg",
+    "title": "Shambler",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "leacher",
+    "link": "data/images/2019/leacher.jpg",
+    "title": "Leacher",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2019,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "snake_god_priest",
+    "link": "data/images/2020/snake_god_priest.jpg",
+    "title": "Snake God Priest",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "teophilo_the_vampire",
+    "link": "data/images/2020/teophilo_the_vampire.jpg",
+    "title": "Teophilo the Vampire",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "dungeon_crawl",
+    "link": "data/images/2020/dungeon_crawl.jpg",
+    "title": "Dungeon Crawl",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "roc",
+    "link": "data/images/2020/roc.jpg",
+    "title": "Roc",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "ranger",
+    "link": "data/images/2020/ranger.jpg",
+    "title": "Ranger",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "ascension"
+  },
+  {
+    "id": "shandow_male",
+    "link": "data/images/2020/shandow_male.jpg",
+    "title": "Shandow Male",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "gnome_ranger",
+    "link": "data/images/2020/gnome_ranger.jpg",
+    "title": "Gnome Ranger",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "sorcerer",
+    "link": "data/images/2020/sorcerer.jpg",
+    "title": "Sorcerer",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "alruin",
+    "link": "data/images/2020/alruin.jpg",
+    "title": "Alruin",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "mice_imp",
+    "link": "data/images/2020/mice_imp.jpg",
+    "title": "Mice Imp",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "ralhl_gwyr",
+    "link": "data/images/2020/ralhl_gwyr.jpg",
+    "title": "Ralhl Gwyr",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "sea_of_thieves_characters_05",
+    "link": "data/images/2020/sea_of_thieves_characters_05.jpg",
+    "title": "Sea of Thieves Characters 05",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sea_of_thieves_characters_06",
+    "link": "data/images/2020/sea_of_thieves_characters_06.jpg",
+    "title": "Sea of Thieves Characters 06",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sea_of_thieves_characters_07",
+    "link": "data/images/2020/sea_of_thieves_characters_07.jpg",
+    "title": "Sea of Thieves Characters 07",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "miyek_estaavi",
+    "link": "data/images/2020/miyek_estaavi.jpg",
+    "title": "Miyek Estaavi",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "shandra_vledden",
+    "link": "data/images/2020/shandra_vledden.jpg",
+    "title": "Shandra Vledden",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "quadru_shambler",
+    "link": "data/images/2020/quadru_shambler.jpg",
+    "title": "Quadru Shambler",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "flying_predator",
+    "link": "data/images/2020/flying_predator.jpg",
+    "title": "Flying Predator",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "infected_alien",
+    "link": "data/images/2020/infected_alien.jpg",
+    "title": "Infected Alien",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "stranded_in_space",
+    "link": "data/images/2020/stranded_in_space.jpg",
+    "title": "Stranded in Space",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "alien_spaceships",
+    "link": "data/images/2020/alien_spaceships.jpg",
+    "title": "Alien Spaceships",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "cryo_breaching_unit",
+    "link": "data/images/2020/cryo_breaching_unit.jpg",
+    "title": "Cryo Breaching Unit",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sindalian_deathbot",
+    "link": "data/images/2020/sindalian_deathbot.jpg",
+    "title": "Sindalian Deathbot",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "enigmatix",
+    "link": "data/images/2020/enigmatix.jpg",
+    "title": "Enigmatix",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "andrea_zumczizcy",
+    "link": "data/images/2020/andrea_zumczizcy.jpg",
+    "title": "Andrea Zumczizcy",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "raif_zentoulli",
+    "link": "data/images/2020/raif_zentoulli.jpg",
+    "title": "Raif Zentoulli",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "lt_gall_dalanna",
+    "link": "data/images/2020/lt_gall_dalanna.jpg",
+    "title": "Lt. Gall. Dalanna",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "lt_ando",
+    "link": "data/images/2020/lt_ando.jpg",
+    "title": "Lt. Ando",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "rrongva_oekstaetz",
+    "link": "data/images/2020/rrongva_oekstaetz.jpg",
+    "title": "Rrongva Oekstaetz",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "real_hawk",
+    "link": "data/images/2020/real_hawk.jpg",
+    "title": "Real Hawk",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "squadron",
+    "link": "data/images/2020/squadron.jpg",
+    "title": "Squadron",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "eoao_female",
+    "link": "data/images/2020/eoao_female.jpg",
+    "title": "Eoao Female",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "eoao_feral",
+    "link": "data/images/2020/eoao_feral.jpg",
+    "title": "Eoao Feral",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "mercenary",
+    "link": "data/images/2020/mercenary.jpg",
+    "title": "Mercenary",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "male_aslan",
+    "link": "data/images/2020/male_aslan.jpg",
+    "title": "Male Aslan",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "solomani_couple",
+    "link": "data/images/2020/solomani_couple.jpg",
+    "title": "Solomani Couple",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "solomani_soldier",
+    "link": "data/images/2020/solomani_soldier.jpg",
+    "title": "Solomani Soldier",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "empress_margaret_ii",
+    "link": "data/images/2020/empress_margaret_ii.jpg",
+    "title": "Empress Margaret II",
+    "type": "scene",
+    "genre": "scifi",
+    "year": 2020,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "winged_rat",
+    "link": "data/images/2021/winged_rat.jpg",
+    "title": "Winged Rat",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "highwayman",
+    "link": "data/images/2021/highwayman.jpg",
+    "title": "Highwayman",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "male_scifi_character",
+    "link": "data/images/2021/male_scifi_character.jpg",
+    "title": "Male Sci Fi Character",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "topdown_slum_shed",
+    "link": "data/images/2021/topdown_slum_shed.jpg",
+    "title": "Topdown Slum Shed",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "topdown_tire_stack",
+    "link": "data/images/2021/topdown_tire_stack.jpg",
+    "title": "Topdown Tire Stack",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "topdown_trash_heep",
+    "link": "data/images/2021/topdown_trash_heep.jpg",
+    "title": "Topdown Trash Heep",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "barbarian",
+    "link": "data/images/2021/barbarian.jpg",
+    "title": "Barbarian",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "bard",
+    "link": "data/images/2021/bard.jpg",
+    "title": "Bard",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "monk",
+    "link": "data/images/2021/monk.jpg",
+    "title": "Monk",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "paladin",
+    "link": "data/images/2021/paladin.jpg",
+    "title": "Paladin",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "ranger",
+    "link": "data/images/2021/ranger.jpg",
+    "title": "Ranger",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "rogue",
+    "link": "data/images/2021/rogue.jpg",
+    "title": "Rogue",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "sorcerer",
+    "link": "data/images/2021/sorcerer.jpg",
+    "title": "Sorcerer",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "warlock",
+    "link": "data/images/2021/warlock.jpg",
+    "title": "Warlock",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "wizard",
+    "link": "data/images/2021/wizard.jpg",
+    "title": "Wizard",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "dragonborn",
+    "link": "data/images/2021/dragonborn.jpg",
+    "title": "Dragonborn",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "dwarf",
+    "link": "data/images/2021/dwarf.jpg",
+    "title": "Dwarf",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "elf",
+    "link": "data/images/2021/elf.jpg",
+    "title": "Elf",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "gnome",
+    "link": "data/images/2021/gnome.jpg",
+    "title": "Gnome",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "half-elf",
+    "link": "data/images/2021/half-elf.jpg",
+    "title": "Half-Elf",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "halfling",
+    "link": "data/images/2021/halfling.jpg",
+    "title": "Halfling",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "half-orc",
+    "link": "data/images/2021/half-orc.jpg",
+    "title": "Half-Orc",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "human",
+    "link": "data/images/2021/human.jpg",
+    "title": "Human",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "tiefling",
+    "link": "data/images/2021/tiefling.jpg",
+    "title": "Tiefling",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "skin_scribe",
+    "link": "data/images/2021/skin_scribe.jpg",
+    "title": "Skin Scribe",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "ranger_giant_slayer",
+    "link": "data/images/2021/ranger_giant_slayer.jpg",
+    "title": "Ranger Giant Slayer",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "wizard_artisar",
+    "link": "data/images/2021/wizard_artisar.jpg",
+    "title": "Wizard Artisar",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "female_dagari",
+    "link": "data/images/2021/female_dagari.jpg",
+    "title": "Female Dagari",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "male_dagari",
+    "link": "data/images/2021/male_dagari.jpg",
+    "title": "Male Dagari",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "shandow_woman",
+    "link": "data/images/2021/shandow_woman.jpg",
+    "title": "Shandow Woman",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "shandow_inquisitor_rogue",
+    "link": "data/images/2021/shandow_inquisitor_rogue.jpg",
+    "title": "Shandow Inquisitor Rogue",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "monk_paladin",
+    "link": "data/images/2021/monk_paladin.jpg",
+    "title": "Monk Paladin",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "magic_objects",
+    "link": "data/images/2021/magic_objects.jpg",
+    "title": "Magic Objects",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "jona_riese",
+    "link": "data/images/2021/jona_riese.jpg",
+    "title": "Jona Riese",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "micalla_erios",
+    "link": "data/images/2021/micalla_erios.jpg",
+    "title": "Micalla Erios",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "lovaradan_memidion",
+    "link": "data/images/2021/lovaradan_memidion.jpg",
+    "title": "Lovaradan Memidion",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "greodd",
+    "link": "data/images/2021/greodd.jpg",
+    "title": "Greodd",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "sea_of_thieves_nardo",
+    "link": "data/images/2021/sea_of_thieves_nardo.jpg",
+    "title": "Sea of Thieves - Nardo",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sea_of_thieves_sally",
+    "link": "data/images/2021/sea_of_thieves_sally.jpg",
+    "title": "Sea of Thieves - Sally",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "marja_aguilar",
+    "link": "data/images/2021/marja_aguilar.jpg",
+    "title": "Marja Aguilar",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "eayukheal",
+    "link": "data/images/2021/eayukheal.jpg",
+    "title": "Eayukheal",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "katarin_xuan",
+    "link": "data/images/2021/katarin_xuan.jpg",
+    "title": "Katarin Xuan",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "enli_alnasr",
+    "link": "data/images/2021/enli_alnasr.jpg",
+    "title": "Enli Alnasr",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "alistair_humbolt",
+    "link": "data/images/2021/alistair_humbolt.jpg",
+    "title": "Alistair Humbolt",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "boris_davlin",
+    "link": "data/images/2021/boris_davlin.jpg",
+    "title": "Boris Davlin",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "dyrrol_mollik",
+    "link": "data/images/2021/dyrrol_mollik.jpg",
+    "title": "Dyrrol Mollik",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "dewclaw",
+    "link": "data/images/2021/dewclaw.jpg",
+    "title": "Dewclaw",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "vargr_canines",
+    "link": "data/images/2021/vargr_canines.jpg",
+    "title": "Vargr Canines",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "vargrs",
+    "link": "data/images/2021/vargrs.jpg",
+    "title": "Vargrs",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "carthus",
+    "link": "data/images/2021/carthus.jpg",
+    "title": "Carthus",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "erakruul",
+    "link": "data/images/2021/erakruul.jpg",
+    "title": "Erakruul",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "klian_sea_sifter",
+    "link": "data/images/2021/klian_sea_sifter.jpg",
+    "title": "Klian Sea Sifter",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "nibbon",
+    "link": "data/images/2021/nibbon.jpg",
+    "title": "Nibbon",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ruuta",
+    "link": "data/images/2021/ruuta.jpg",
+    "title": "Ruuta",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "burrowvarg",
+    "link": "data/images/2021/burrowvarg.jpg",
+    "title": "Burrowvarg",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "cave_dragon",
+    "link": "data/images/2021/cave_dragon.jpg",
+    "title": "Cave Dragon",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "dragonbat",
+    "link": "data/images/2021/dragonbat.jpg",
+    "title": "Dragonbat",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "gatinhos_da_selva",
+    "link": "data/images/2021/gatinhos_da_selva.jpg",
+    "title": "Gatinhos da Selva",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ellebys_cricket",
+    "link": "data/images/2021/ellebys_cricket.jpg",
+    "title": "Elleby's Cricket",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ginkus_ankii",
+    "link": "data/images/2021/ginkus_ankii.jpg",
+    "title": "Ginkus Ankii",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "gisidi_enveloper",
+    "link": "data/images/2021/gisidi_enveloper.jpg",
+    "title": "Gisidi Enveloper",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "shakuurzarpi",
+    "link": "data/images/2021/shakuurzarpi.jpg",
+    "title": "Shakuurzarpi",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sylvies_greycat",
+    "link": "data/images/2021/sylvies_greycat.jpg",
+    "title": "Sylvie's Greycat",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "tillanidi_cerny",
+    "link": "data/images/2021/tillanidi_cerny.jpg",
+    "title": "Tillanidi Cerny",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "calago",
+    "link": "data/images/2021/calago.jpg",
+    "title": "Calago",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "bronto_solomei",
+    "link": "data/images/2021/bronto_solomei.jpg",
+    "title": "Bronto Solomei",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "channas_brummac",
+    "link": "data/images/2021/channas_brummac.jpg",
+    "title": "Channas Brummac",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "cadgeree",
+    "link": "data/images/2021/cadgeree.jpg",
+    "title": "Cadgeree",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "maleficent",
+    "link": "data/images/2021/maleficent.jpg",
+    "title": "Maleficent",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "nameless_creature",
+    "link": "data/images/2021/nameless_creature.jpg",
+    "title": "Nameless Creature",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sky-whale",
+    "link": "data/images/2021/sky-whale.jpg",
+    "title": "Sky-Whale",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "spitter",
+    "link": "data/images/2021/spitter.jpg",
+    "title": "Spitter",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "atrephari",
+    "link": "data/images/2021/atrephari.jpg",
+    "title": "Atrephari",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "iliisupashkashgek",
+    "link": "data/images/2021/iliisupashkashgek.jpg",
+    "title": "Iliisupashkashgek",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "nightstalker",
+    "link": "data/images/2021/nightstalker.jpg",
+    "title": "Nightstalker",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "treegator",
+    "link": "data/images/2021/treegator.jpg",
+    "title": "Treegator",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "zhdianshe",
+    "link": "data/images/2021/zhdianshe.jpg",
+    "title": "Zhdianshe",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2021,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "krita_first_test",
+    "link": "data/images/2022/krita_first_test.jpg",
+    "title": "Krita First Test",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "cute_characters",
+    "link": "data/images/2022/cute_characters.jpg",
+    "title": "Cute Characters",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "angus",
+    "link": "data/images/2022/angus.jpg",
+    "title": "Angus",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "julie",
+    "link": "data/images/2022/julie.jpg",
+    "title": "Julie",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "bar_brawl",
+    "link": "data/images/2022/bar_brawl.jpg",
+    "title": "Bar Brawl",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "orcs",
+    "link": "data/images/2022/orcs.jpg",
+    "title": "Orcs",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "green-ronin"
+  },
+  {
+    "id": "serpentfolk",
+    "link": "data/images/2022/serpentfolk.jpg",
+    "title": "Serpentfolk",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "green-ronin"
+  },
+  {
+    "id": "dragonborn",
+    "link": "data/images/2022/dragonborn.jpg",
+    "title": "Dragonborn",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "dwarf",
+    "link": "data/images/2022/dwarf.jpg",
+    "title": "Dwarf",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "elf",
+    "link": "data/images/2022/elf.jpg",
+    "title": "Elf",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "half-elf",
+    "link": "data/images/2022/half-elf.jpg",
+    "title": "Half-Elf",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "halfling",
+    "link": "data/images/2022/halfling.jpg",
+    "title": "halfling",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "tiefling",
+    "link": "data/images/2022/tiefling.jpg",
+    "title": "Tiefling",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "knight",
+    "link": "data/images/2022/knight.jpg",
+    "title": "knight",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "boarding_ranger",
+    "link": "data/images/2022/boarding_ranger.jpg",
+    "title": "Boarding Ranger",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "wizard",
+    "link": "data/images/2022/wizard.jpg",
+    "title": "Wizard",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "boggart",
+    "link": "data/images/2022/boggart.jpg",
+    "title": "Boggart",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "terror_born",
+    "link": "data/images/2022/terror_born.jpg",
+    "title": "Terror Born",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "eelworm",
+    "link": "data/images/2022/eelworm.jpg",
+    "title": "Eelworm",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "keely_gales",
+    "link": "data/images/2022/keely_gales.jpg",
+    "title": "Keely Gales",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "oldmother",
+    "link": "data/images/2022/oldmother.jpg",
+    "title": "Oldmother",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "jack-o-the-grove",
+    "link": "data/images/2022/jack-o-the-grove.jpg",
+    "title": "Jack-o'-the-Grove",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "omen_moth",
+    "link": "data/images/2022/omen_moth.jpg",
+    "title": "Omen Moth",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2022,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "pacer",
+    "link": "data/images/2022/pacer.jpg",
+    "title": "Pacer",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "thanber_condor",
+    "link": "data/images/2022/thanber_condor.jpg",
+    "title": "Thanber Condor",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "weapons",
+    "link": "data/images/2022/weapons.jpg",
+    "title": "Weapons",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "survnaut_pistol",
+    "link": "data/images/2022/survnaut_pistol.jpg",
+    "title": "Survnaut Pistol",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "chieftain_neandor",
+    "link": "data/images/2022/chieftain_neandor.jpg",
+    "title": "Chieftain Neandor",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "trista_galibaan",
+    "link": "data/images/2022/trista_galibaan.jpg",
+    "title": "Trista Galibaan",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "nicolas_gestalt",
+    "link": "data/images/2022/nicolas_gestalt.jpg",
+    "title": "Nicolas Gestalt",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "tamara",
+    "link": "data/images/2022/tamara.jpg",
+    "title": "Tamara",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "chef_sergent_mathilde",
+    "link": "data/images/2022/chef_sergent_mathilde.jpg",
+    "title": "Chef Sergent Mathilde",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "taki_tobaii",
+    "link": "data/images/2022/taki_tobaii.jpg",
+    "title": "Taki Tobaii",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "biomonitor",
+    "link": "data/images/2022/biomonitor.jpg",
+    "title": "Biomonitor",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "cutter_spreader",
+    "link": "data/images/2022/cutter_spreader.jpg",
+    "title": "Cutter Spreader",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "emergency_suit_and_rescue_ball",
+    "link": "data/images/2022/emergency_suit_and_rescue_ball.jpg",
+    "title": "Emergency Suit and Rescue Ball",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "food_synthetizer",
+    "link": "data/images/2022/food_synthetizer.jpg",
+    "title": "Food Synthetizer",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "magnetic_grappler",
+    "link": "data/images/2022/magnetic_grappler.jpg",
+    "title": "Magnetic Grappler",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "antennas",
+    "link": "data/images/2022/antennas.jpg",
+    "title": "Antennas",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "powered_shears_and_rescue_jaws",
+    "link": "data/images/2022/powered_shears_and_rescue_jaws.jpg",
+    "title": "Powered Shears and Rescue Jaws",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "star_wanderer_suit",
+    "link": "data/images/2022/star_wanderer_suit.jpg",
+    "title": "Star Wanderer Suit",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "survival_kit_and_survival_cocoon",
+    "link": "data/images/2022/survival_kit_and_survival_cocoon.jpg",
+    "title": "Survival Kit and Survival Cocoon",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "tent",
+    "link": "data/images/2022/tent.jpg",
+    "title": "Tent",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "beacons",
+    "link": "data/images/2022/beacons.jpg",
+    "title": "Beacons",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "biosuit",
+    "link": "data/images/2022/biosuit.jpg",
+    "title": "Biosuit",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "llama",
+    "link": "data/images/2022/llama.jpg",
+    "title": "Llama",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "penter_deov",
+    "link": "data/images/2022/penter_deov.jpg",
+    "title": "Penter Deov",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "yvonne_rourke",
+    "link": "data/images/2022/yvonne_rourke.jpg",
+    "title": "Yvonne Rourke",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "david_bruenweller",
+    "link": "data/images/2022/david_bruenweller.jpg",
+    "title": "David Bruenweller",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "tashima_matsika",
+    "link": "data/images/2022/tashima_matsika.jpg",
+    "title": "Tashima Matsika",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "amy_taylor",
+    "link": "data/images/2022/amy_taylor.jpg",
+    "title": "Amy Taylor",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "kristoffer_knutsen",
+    "link": "data/images/2022/kristoffer_knutsen.jpg",
+    "title": "Kristoffer Knutsen",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2022,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "duel",
+    "link": "data/images/2023/duel.jpg",
+    "title": "Duel",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "pirate",
+    "link": "data/images/2023/pirate.jpg",
+    "title": "Pirate",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "chainblade",
+    "link": "data/images/2023/chainblade.jpg",
+    "title": "Chainblade",
+    "type": "other",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "chris"
+  },
+  {
+    "id": "caddy_and_tilly",
+    "link": "data/images/2023/caddy_and_tilly.jpg",
+    "title": "Caddy and Tilly",
+    "type": "scene",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "pinnacle"
+  },
+  {
+    "id": "wailin_jenny",
+    "link": "data/images/2023/wailin_jenny.jpg",
+    "title": "Wailin' Jenny",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "pinnacle"
+  },
+  {
+    "id": "corn_stalker",
+    "link": "data/images/2023/corn_stalker.jpg",
+    "title": "Corn Stalker",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "pinnacle"
+  },
+  {
+    "id": "sin_eater",
+    "link": "data/images/2023/sin_eater.jpg",
+    "title": "Sin Eater",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "pinnacle"
+  },
+  {
+    "id": "tunnel_critter",
+    "link": "data/images/2023/tunnel_critter.jpg",
+    "title": "Tunnel Critter",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "pinnacle"
+  },
+  {
+    "id": "eshanda",
+    "link": "data/images/2023/eshanda.jpg",
+    "title": "Eshanda",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "koall_esertane",
+    "link": "data/images/2023/koall_esertane.jpg",
+    "title": "Koall Esertane",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "eldri_sandsstaff",
+    "link": "data/images/2023/eldri_sandsstaff.jpg",
+    "title": "Eldri Sandsstaff",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "gnome",
+    "link": "data/images/2023/gnome.jpg",
+    "title": "Gnome",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "chizka",
+    "link": "data/images/2023/chizka.jpg",
+    "title": "Chizka",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "weyland_moran",
+    "link": "data/images/2023/weyland_moran.jpg",
+    "title": "Weyland Moran",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2023,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "dillan_esparza",
+    "link": "data/images/2023/dillan_esparza.jpg",
+    "title": "Dillan Esparza",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "djean_sarratt",
+    "link": "data/images/2023/djean_sarratt.jpg",
+    "title": "Djean Sarratt",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "isla_bennei",
+    "link": "data/images/2023/isla_bennei.jpg",
+    "title": "Isla Bennei",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "jerome_entefyss",
+    "link": "data/images/2023/jerome_entefyss.jpg",
+    "title": "Jerome Entefyss",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "kamari_santana",
+    "link": "data/images/2023/kamari_santana.jpg",
+    "title": "Kamari Santana",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "lieutenant_maria_culstein",
+    "link": "data/images/2023/lieutenant_maria_culstein.jpg",
+    "title": "Lieutenant Maria Culstein",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "major_aiden_zimmermayer",
+    "link": "data/images/2023/major_aiden_zimmermayer.jpg",
+    "title": "Major Aiden Zimmermayer",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "order_flight_crew",
+    "link": "data/images/2023/order_flight_crew.jpg",
+    "title": "Order Flight Crew",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "raindell_navarro",
+    "link": "data/images/2023/raindell_navarro.jpg",
+    "title": "Raindell Navarro",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "travda_vaughan",
+    "link": "data/images/2023/travda_vaughan.jpg",
+    "title": "Travda Vaughan",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "veronique_valgorch",
+    "link": "data/images/2023/veronique_valgorch.jpg",
+    "title": "Veronique ValGorch",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "yurem_may",
+    "link": "data/images/2023/yurem_may.jpg",
+    "title": "Yurem May",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "crater_lip_scavengers",
+    "link": "data/images/2023/crater_lip_scavengers.jpg",
+    "title": "Crater Lip Scavengers",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "egil_tedorsson",
+    "link": "data/images/2023/egil_tedorsson.jpg",
+    "title": "Egil Tedorsson",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "myntelle_bothildr",
+    "link": "data/images/2023/myntelle_bothildr.jpg",
+    "title": "Myntelle Bothildr",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "egino_bothildr",
+    "link": "data/images/2023/egino_bothildr.jpg",
+    "title": "Egino Bothildr",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "runa_bothildr",
+    "link": "data/images/2023/runa_bothildr.jpg",
+    "title": "Runa Bothildr",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "eric_bothildr",
+    "link": "data/images/2023/eric_bothildr.jpg",
+    "title": "Eric Bothildr",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "the_attackers",
+    "link": "data/images/2023/the_attackers.jpg",
+    "title": "The Attackers",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "alversens_nightmare",
+    "link": "data/images/2023/alversens_nightmare.jpg",
+    "title": "Alversen's Nightmare",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "cuttlehorror",
+    "link": "data/images/2023/cuttlehorror.jpg",
+    "title": "Cuttlehorror",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "hequib_ukide",
+    "link": "data/images/2023/hequib_ukide.jpg",
+    "title": "Hequib Ukide",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "krvn",
+    "link": "data/images/2023/krvn.jpg",
+    "title": "Krvn",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "lakefang",
+    "link": "data/images/2023/lakefang.jpg",
+    "title": "Lakefang",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "pointer_fish",
+    "link": "data/images/2023/pointer_fish.jpg",
+    "title": "Pointer Fish",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "riverdipper",
+    "link": "data/images/2023/riverdipper.jpg",
+    "title": "Riverdipper",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "suerrat",
+    "link": "data/images/2023/suerrat.jpg",
+    "title": "Suerrat",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "zhaat",
+    "link": "data/images/2023/zhaat.jpg",
+    "title": "Zhaat",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "zianki",
+    "link": "data/images/2023/zianki.jpg",
+    "title": "Zianki",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sir_gnetus_jerrold_vicervis",
+    "link": "data/images/2023/sir_gnetus_jerrold_vicervis.jpg",
+    "title": "Sir Gnetus Jerrold Vicervis",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "squid-fish-thing",
+    "link": "data/images/2023/squid-fish-thing.jpg",
+    "title": "Squid-Fish-Thing",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "yurfal",
+    "link": "data/images/2023/yurfal.jpg",
+    "title": "Yurfal",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2023,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "viper_snail",
+    "link": "data/images/2024/viper_snail.jpg",
+    "title": "Viper Snail",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "dex_cannis",
+    "link": "data/images/2024/dex_cannis.jpg",
+    "title": "Dex Cannis",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "shiluun",
+    "link": "data/images/2024/shiluun.jpg",
+    "title": "Shiluun",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "mutated_creature",
+    "link": "data/images/2024/mutated_creature.jpg",
+    "title": "Mutated Creature",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "jazora_unicorn",
+    "link": "data/images/2024/jazora_unicorn.jpg",
+    "title": "Jazora Unicorn",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "billybuck_unicorn",
+    "link": "data/images/2024/billybuck_unicorn.jpg",
+    "title": "Billybuck Unicorn",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "cowen_of_the_airywood",
+    "link": "data/images/2024/cowen_of_the_airywood.jpg",
+    "title": "Cowen of the Airywood",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "female_ocutta",
+    "link": "data/images/2024/female_ocutta.jpg",
+    "title": "Female Ocutta",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "male_ocutta",
+    "link": "data/images/2024/male_ocutta.jpg",
+    "title": "Male Ocutta",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "sprig",
+    "link": "data/images/2024/sprig.jpg",
+    "title": "Sprig",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "plant_monster",
+    "link": "data/images/2024/plant_monster.jpg",
+    "title": "Plant Monster",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2024,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "darrian_infantryman",
+    "link": "data/images/2024/darrian_infantryman.jpg",
+    "title": "Darrian Infantryman",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "kakin_ribiero",
+    "link": "data/images/2024/kakin_ribiero.jpg",
+    "title": "Kakin Ribiero",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "provincial_governor_dlafl_shtalijtlas",
+    "link": "data/images/2024/provincial_governor_dlafl_shtalijtlas.jpg",
+    "title": "Provincial Governor Dlafl Shtalijtlas",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "umar_rirkumkuud",
+    "link": "data/images/2024/umar_rirkumkuud.jpg",
+    "title": "Umar Rirkumkuud",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "viscount_urast_of_new_rome",
+    "link": "data/images/2024/viscount_urast_of_new_rome.jpg",
+    "title": "Viscount Urast of New Rome",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "controlled_crewmember",
+    "link": "data/images/2024/controlled_crewmember.jpg",
+    "title": "Controlled Crewmember",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "shambler",
+    "link": "data/images/2024/shambler.jpg",
+    "title": "Shambler",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "captain_miklos_zenkhuirl",
+    "link": "data/images/2024/captain_miklos_zenkhuirl.jpg",
+    "title": "Captain Miklos Zenkhuirl",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "master-at-arms_riece_arbonne",
+    "link": "data/images/2024/master-at-arms_riece_arbonne.jpg",
+    "title": "Master-at-Arms Riece Arbonne",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "chief_engineer_dakh_moralder",
+    "link": "data/images/2024/chief_engineer_dakh_moralder.jpg",
+    "title": "Chief Engineer Dakh Moralder",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "mission_officer_jarla_kleine",
+    "link": "data/images/2024/mission_officer_jarla_kleine.jpg",
+    "title": "Mission Officer Jarla Kleine",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "weapons_officer_andrea_guns_ricardssen",
+    "link": "data/images/2024/weapons_officer_andrea_guns_ricardssen.jpg",
+    "title": "Weapons Officer Andrea 'Guns' Ricardssen",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "trennance_zedehlale",
+    "link": "data/images/2024/trennance_zedehlale.jpg",
+    "title": "Trennance Zedehlale",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "sayelle_mikolos",
+    "link": "data/images/2024/sayelle_mikolos.jpg",
+    "title": "Sayelle Mikolos",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "yosoy",
+    "link": "data/images/2024/yosoy.jpg",
+    "title": "Yosoy",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ascondi_hunter",
+    "link": "data/images/2024/ascondi_hunter.jpg",
+    "title": "Ascondi Hunter",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "khaahk",
+    "link": "data/images/2024/khaahk.jpg",
+    "title": "Khaahk",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "droyne_warrior",
+    "link": "data/images/2024/droyne_warrior.jpg",
+    "title": "Droyne Warrior",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "okhoikoil",
+    "link": "data/images/2024/okhoikoil.jpg",
+    "title": "Okhoikoil",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "alikka",
+    "link": "data/images/2024/alikka.jpg",
+    "title": "Alikka",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "marija_ju",
+    "link": "data/images/2024/marija_ju.jpg",
+    "title": "Marija Ju",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2024,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "study",
+    "link": "data/images/2025/study.jpg",
+    "title": "Study",
+    "type": "character",
+    "genre": "other",
+    "year": 2025,
+    "media": "digital",
+    "client": "self"
+  },
+  {
+    "id": "patricia",
+    "link": "data/images/2025/patricia.png",
+    "title": "Patricia - Cartoon",
+    "type": "character",
+    "genre": "other",
+    "year": 2025,
+    "media": "digital",
+    "client": "other"
+  },
+  {
+    "id": "billybuck_unicorns",
+    "link": "data/images/2025/billybuck_unicorns.jpg",
+    "title": "Billybuck Unicorns",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2025,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "punk_girl",
+    "link": "data/images/2025/punk_girl.jpg",
+    "title": "Punk Girl",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2025,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "sea_creature",
+    "link": "data/images/2025/sea_creature.jpg",
+    "title": "Sea Creature",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2025,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "little_creature",
+    "link": "data/images/2025/little_creature.jpg",
+    "title": "Little Creature",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2025,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "vangrul_female",
+    "link": "data/images/2025/vangrul_female.jpg",
+    "title": "Vangrul Female",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2025,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "vangrul_male",
+    "link": "data/images/2025/vangrul_male.jpg",
+    "title": "Vangrul Male",
+    "type": "character",
+    "genre": "fantasy",
+    "year": 2025,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "gimmrick_beatle",
+    "link": "data/images/2025/gimmrick_beatle.jpg",
+    "title": "Gimmrick Beatle",
+    "type": "creature",
+    "genre": "fantasy",
+    "year": 2025,
+    "media": "digital",
+    "client": "jess"
+  },
+  {
+    "id": "jewell_infantry_lift_soldier",
+    "link": "data/images/2025/jewell_infantry_lift_soldier.jpg",
+    "title": "Jewell Infantry Lift Soldier",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "imperial_army_combat_environment_suit",
+    "link": "data/images/2025/imperial_army_combat_environment_suit.jpg",
+    "title": "Imperial Army Combat Environment Suit",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "zhodani_light_combat_armour",
+    "link": "data/images/2025/zhodani_light_combat_armour.jpg",
+    "title": "Zhodani Light Combat Armour",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "zhodani_field_protection_suit",
+    "link": "data/images/2025/zhodani_field_protection_suit.jpg",
+    "title": "Zhodani Field Protection Suit",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "administrator_fuilail_ikoh",
+    "link": "data/images/2025/administrator_fuilail_ikoh.jpg",
+    "title": "Administrator Fuilail Ikoh",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "warden_akhllu_ksoeukh",
+    "link": "data/images/2025/warden_akhllu_ksoeukh.jpg",
+    "title": "Warden Akhllu Ksoeukh",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "commander_azrer_gok",
+    "link": "data/images/2025/commander_azrer_gok.jpg",
+    "title": "Commander Azrer Gok",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "council_member",
+    "link": "data/images/2025/council_member.jpg",
+    "title": "Council Member",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "defender_of_truth",
+    "link": "data/images/2025/defender_of_truth.jpg",
+    "title": "Defender of Truth",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "follower",
+    "link": "data/images/2025/follower.jpg",
+    "title": "Follower",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "true_believer",
+    "link": "data/images/2025/true_believer.jpg",
+    "title": "True Believer",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "shunned",
+    "link": "data/images/2025/shunned.jpg",
+    "title": "Shunned",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "untarr",
+    "link": "data/images/2025/untarr.jpg",
+    "title": "Untarr",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "llaien",
+    "link": "data/images/2025/llaien.jpg",
+    "title": "Llaien",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "ghangzu",
+    "link": "data/images/2025/ghangzu.jpg",
+    "title": "Ghangzu",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "gvuzzuez",
+    "link": "data/images/2025/gvuzzuez.jpg",
+    "title": "Gvuzzuez",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "experimental_shunned",
+    "link": "data/images/2025/experimental_shunned.jpg",
+    "title": "Experimental Shunned",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "destroyer_officer_shtentso_shtiezfied",
+    "link": "data/images/2025/destroyer_officer_shtentso_shtiezfied.jpg",
+    "title": "Destroyer Officer Shtentso Shtiezfied",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "deck_officer_kreshdliazedl_dlae",
+    "link": "data/images/2025/deck_officer_kreshdliazedl_dlae.jpg",
+    "title": "Deck Officer Kreshdliazedl Dla'e",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "deck_officer_tlentebl_laezd",
+    "link": "data/images/2025/deck_officer_tlentebl_laezd.jpg",
+    "title": "Deck Officer Tlentebl Laezd",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "watch_officer_braeqrki_chtapl",
+    "link": "data/images/2025/watch_officer_braeqrki_chtapl.jpg",
+    "title": "Watch Officer Braeqrki Chtapl",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "angelo_emkik",
+    "link": "data/images/2025/angelo_emkik.jpg",
+    "title": "Angelo Emkik",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "maximillian",
+    "link": "data/images/2025/maximillian.jpg",
+    "title": "Maximillian",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "representative_kristina_ie",
+    "link": "data/images/2025/representative_kristina_ie.jpg",
+    "title": "Representative Kristina Ie",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "colonel-major_olivier_yamn",
+    "link": "data/images/2025/colonel-major_olivier_yamn.jpg",
+    "title": "Colonel-Major Olivier Yamn",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "subliutenant_maksim_erguui",
+    "link": "data/images/2025/subliutenant_maksim_erguui.jpg",
+    "title": "Subliutenant Maksim Erguui",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "chief_petty_officer_laardu_bell",
+    "link": "data/images/2025/chief_petty_officer_laardu_bell.jpg",
+    "title": "Chief Petty Officer Laardu Bell",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "captain_remka_inir",
+    "link": "data/images/2025/captain_remka_inir.jpg",
+    "title": "Captain Remka Inir",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2025,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "addaxur",
+    "link": "data/images/2026/addaxur.jpg",
+    "title": "Addaxur",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2026,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "commander_lief_zhdentleprabl",
+    "link": "data/images/2026/commander_lief_zhdentleprabl.jpg",
+    "title": "Commander Lief Zhdentleprabl",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2026,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "senior_medic_adriaq_plijbenj",
+    "link": "data/images/2026/senior_medic_adriaq_plijbenj.jpg",
+    "title": "Senior Medic Adriaq Plijbenj",
+    "type": "character",
+    "genre": "scifi",
+    "year": 2026,
+    "media": "digital",
+    "client": "mongoose"
+  },
+  {
+    "id": "zeroak",
+    "link": "data/images/2026/zeroak.jpg",
+    "title": "Zeroak",
+    "type": "creature",
+    "genre": "scifi",
+    "year": 2026,
+    "media": "digital",
+    "client": "mongoose"
+  }
+]

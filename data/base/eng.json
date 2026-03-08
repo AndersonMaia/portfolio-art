@@ -1,0 +1,63 @@
+{
+  "site": {
+    "title": "Anderson Maia",
+    "subtitle": "Portfolio of Illustrations and Drawings",
+    "footer-year": 2026
+  },
+  "menu": {
+    "home": "PORTFOLIO",
+    "bio": "ABOUT ME",
+    "instagram": "INSTAGRAM",
+    "artstation": "ARTSTATION"
+  },
+  "bio": {
+    "alt": "Close up photo of Anderson Maia",
+    "text": "In love with videogames, cartoons, animes, RPGs, horror movies, Rock e Heavy Metal since childhood, my attention always were spent much more in fantastic worlds than reality. It was just natural that, in my adult life, I would try to turn this vast inner world into something external and present it to the world. Lucky me, I'm even paid to do just that. 🤘😎🤘"
+  },
+  "filter": {
+    "all": "All",
+    "type": "Type",
+    "genre": "Genre",
+    "year": "Year",
+    "media": "Media",
+    "client": "Client"
+  },
+  "types": {
+    "character": "Characters",
+    "creature": "Creatures",
+    "scene": "Scenes",
+    "other": "Others"
+  },
+  "genres": {
+    "fantasy": "Fantasy",
+    "scifi": "Sci-Fi",
+    "other": "Others"
+  },
+  "medias": {
+    "digital": "Digital",
+    "pencil": "Pencil",
+    "mixed": "Pencil + Digital"
+  },
+  "clients": {
+    "self": "Personal Study",
+    "mongoose": "Mongoose Publishing",
+    "jess": "Underground Oracle",
+    "pinnacle": "Pinnacle Entertainment",
+    "brazer": "Jon Brazer Enterprises",
+    "storm-bunny": "Storm Bunny Studios",
+    "design-mechanism": "The Design Mechanism",
+    "scrub": "Scrub Oak Publishing",
+    "wingspan": "Wingspan Games",
+    "chris": "Basic Action Games",
+    "ascension": "Ascension Games",
+    "green-ronin": "Green Ronin",
+    "other": "Private Commision"
+  },
+  "buttons": {
+    "light-mode": "Light Mode",
+    "dark-mode": "Dark Mode",
+    "pt-br": "Render page in Brazilian Portuguese",
+    "en": "Render page in English",
+    "close": "Close"
+  }
+}
