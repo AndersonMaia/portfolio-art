@@ -133,7 +133,7 @@ footer {
 
 #gallery {
   column-width: var(--gallery-image-size);
-  column-gap: 0.1em;
+  column-gap: 1em;
   align-items: start;
   justify-content: center;
   border: solid;
@@ -167,12 +167,13 @@ footer {
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(0, 0, 0, 0.575) 0%,
-    rgba(0, 0, 0, 0.267) 40%,
-    rgba(0, 0, 0, 0.068) 100%
+    rgba(0, 0, 0, 0.85) 0%,
+    rgba(0, 0, 0, 0.3) 40%,
+    rgba(0, 0, 0, 0.1) 100%
   );
   opacity: 0;
   display: flex;
+  cursor: pointer;
   align-items: flex-start;
   border: solid;
   border-radius: 1em;

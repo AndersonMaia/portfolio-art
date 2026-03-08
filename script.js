@@ -244,7 +244,7 @@ function createImage(image) {
     modal.classList.remove("inactive");
     body.style.overflow = "hidden";
     modal.style.overflow = "auto";
-    console.log(imageElement);
+    imageElement.loading = "lazy";
   });
 
   gallery.appendChild(wrapper);
