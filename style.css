@@ -14,7 +14,7 @@
   --gallery-gray-light: rgb(236, 235, 235);
   --gallery-gray-dark: rgb(58, 57, 57);
   --accent-color: rgba(255, 32, 32, 0.925);
-  --gallery-image-size: 200px;
+  --gallery-image-size: clamp(140px, 22vw, 220px);
 }
 
 header {
@@ -148,13 +148,13 @@ footer {
   overflow: hidden;
   break-inside: avoid;
   border-radius: 1em;
-  width: var(--gallery-image-size);
+  width: 100%;
   margin: 1em;
   padding: 0.2em;
 }
 
 .gallery-img {
-  width: var(--gallery-image-size);
+  width: 100%;
   height: auto;
   display: block;
   border-radius: 1em;
@@ -378,32 +378,80 @@ footer {
   cursor: pointer;
 }
 
-@media (min-width: 320px) and (max-width: 768px) {
-  #gallery,
-  #bio-content {
-    display: grid;
-    grid-template-columns: repeat(
-      auto-fit,
-      minmax(var(--gallery-image-size), 1fr)
-    );
-    justify-items: center;
-    margin-left: 3em;
+@media (max-width: 1000px) {
+  :root {
+    --gallery-image-size: 140px;
   }
 
-  #title,
-  #subtitle {
-    font-size: small;
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
   }
 
-  #sidebar button {
-    font-size: x-small;
+  header {
+    display: flex;
+    margin-top: 0;
+    padding-top: 0.5em;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #sidebar {
+    position: static;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: solid 1px;
+    padding: 0.3em 0.5em;
+    margin-bottom: 1em;
+  }
+
+  main {
+    margin-top: 0;
+    padding-top: 0;
+    width: 100%;
+    align-items: center;
+  }
+
+  #selectors {
+    justify-content: center;
+    margin-top: 0;
+    padding-top: 0.5em;
+    flex-wrap: wrap;
   }
 
   #filters {
-    margin-top: 3em;
+    justify-content: center;
+    margin: 0.2em;
+    flex-wrap: wrap;
+    gap: 1em;
   }
 
-  .filter-btn {
-    font-size: smaller;
+  #gallery {
+    column-width: var(--gallery-image-size);
+    column-fill: balance;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+  }
+
+  #bio-content {
+    flex-direction: column;
+    align-items: center;
+    margin-right: 0;
+  }
+
+  #bio-text {
+    max-width: 90%;
+    text-align: center;
+  }
+
+  footer {
+    justify-content: center;
+    width: 100%;
   }
 }
