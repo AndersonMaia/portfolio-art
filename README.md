@@ -17,6 +17,7 @@ Portfolio website showcasing my illustration work.
 - Filtering by year (with other metadat added to each image entry on the JSON file for possible filtering expansion)
 - Dark / light mode
 - Multilanguage support (Brazilian Portuguese and English)
+- Personalized svg icons made in Inkscape
 
 ## Built with
 
